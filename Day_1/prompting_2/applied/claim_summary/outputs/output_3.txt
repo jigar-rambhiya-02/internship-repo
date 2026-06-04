@@ -1,0 +1,16 @@
+**Claim Summary**
+
+| Field              | Value |
+|--------------------|-------|
+| Claimant Name      | Vikram |
+| Policy Number      | Not provided |
+| Date of Incident   | Not provided |
+| Claim Type         | Theft |
+| Claimed Amount     | ₹2,00,000 |
+| Reported Cause     | Shop broken into; cash ₹2,00,000 and a laptop stolen |
+| Missing Info       | Policy number, date of incident, supporting documents |
+| High Value Flag    | No |
+
+**Red Flags:** No police complaint filed; no supporting documents; key details missing (policy number, incident date).  
+**Recommended Next Action:** Request more documents  
+**Reason:** The claim lacks essential evidence and policy details needed for assessment.

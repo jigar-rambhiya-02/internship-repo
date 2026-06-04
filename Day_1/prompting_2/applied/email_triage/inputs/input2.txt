@@ -1,0 +1,10 @@
+Subject: How do I export tasks to Excel?
+
+Body:
+Hello,
+
+I've been trying to figure out how to export my project tasks to an Excel file. I looked at the help docs but couldn't find a clear answer. Could you point me to the right place or walk me through it?
+
+Thanks,
+Divya Nair
+Freelance Consultant

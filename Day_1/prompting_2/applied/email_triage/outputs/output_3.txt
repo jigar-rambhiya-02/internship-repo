@@ -1,0 +1,5 @@
+**Classification:** Spam  
+**Sender Intent:** Invite recipients to a free webinar on productivity.  
+**Key Action Required:** None  
+**Suggested Owner:** No action  
+**Priority Reason:** Promotional content with no impact on customer support.

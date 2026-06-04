@@ -1,0 +1,8 @@
+Subject: Our account has been hacked — someone changed our admin password
+
+Body:
+Hi Team,
+
+I just received a notification that the admin password for our account (company: Nexus Retail Pvt Ltd) was changed at 2:14 AM last night. Neither I nor anyone on my team made this change. We suspect unauthorised access. I've been locked out since morning. Please treat this as an emergency.
+
+— Karan Malhotra, IT Head, Nexus Retail

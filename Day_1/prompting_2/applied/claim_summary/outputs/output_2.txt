@@ -1,0 +1,18 @@
+**Claim Summary**
+
+| Field              | Value |
+|--------------------|-------|
+| Claimant Name      | Sunita Rao |
+| Policy Number      | HDFC-H-4456 |
+| Date of Incident   | 18/06/2024 |
+| Claim Type         | Household contents damage |
+| Claimed Amount     | ₹7,20,000 |
+| Reported Cause     | Water leak from apartment above during heavy rains |
+| Missing Info       | Repair quotes, evidence of building society responsibility |
+| High Value Flag    | Yes |
+
+**Red Flags:** Building society dispute over responsibility; missing repair quotes.
+
+**Recommended Next Action:** Request more documents
+
+**Reason:** The claimant lacks repair quotes and proof of the building society’s liability, which are essential before any approval or fast‑track decision.

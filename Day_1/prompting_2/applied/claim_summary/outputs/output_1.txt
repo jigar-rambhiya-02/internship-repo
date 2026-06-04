@@ -1,0 +1,16 @@
+**Claim Summary**
+
+| Field              | Value |
+|--------------------|-------|
+| Claimant Name      | Amit Sharma |
+| Policy Number      | GIC-7821-RS |
+| Date of Incident   | 03/04/2024 |
+| Claim Type         | Two‑wheeler damage (road accident) |
+| Claimed Amount     | ₹45,000 |
+| Reported Cause     | Truck hit from behind at signal near Andheri flyover |
+| Missing Info       | Not provided |
+| High Value Flag    | No |
+
+**Red Flags:** None identified  
+**Recommended Next Action:** Approve for fast‑track  
+**Reason:** All required details and supporting documents are present; claim amount is below high‑value threshold.

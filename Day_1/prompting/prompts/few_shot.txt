@@ -1,0 +1,24 @@
+Classify each customer support ticket into exactly one of these categories:
+Refund, Shipping, Login, Payment, Account, Product Quality, Order Change, Other.
+
+Return only the category name.
+
+Examples:
+Input: I was charged twice for my subscription renewal and need the duplicate charge reversed.
+Output: Payment
+
+Input: My package says delivered, but nothing arrived at my door or mailbox.
+Output: Shipping
+
+Input: I want to cancel my order before it ships and choose a different color later.
+Output: Order Change
+
+Input: The shoes arrived with glue marks and a torn seam.
+Output: Product Quality
+
+Input: I forgot my password and the reset email never comes through.
+Output: Login
+
+Now classify this ticket.
+Input: {{ticket_text}}
+Output:

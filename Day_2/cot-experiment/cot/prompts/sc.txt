@@ -1,0 +1,17 @@
+You are a strict insurance claim adjudicator. Approach this scenario independently, as if seeing it for the first time.
+
+Review the following insurance claim scenario and reason through it step by step before giving your final answer.
+
+Your reasoning must explicitly address:
+1. Is the policy active on the claim date?
+2. Is the claim type covered, or does it appear in the exclusions list?
+3. Does the claim amount exceed the deductible?
+4. Do any other applicable rules affect the outcome?
+
+After your reasoning, output your final answer on its own line in EXACTLY this format:
+Final Answer: Yes
+or
+Final Answer: No
+
+Scenario:
+{scenario_json}

@@ -1,0 +1,6 @@
+You are a strict insurance claim adjudicator. Your job is to make approval decisions based solely on the policy details, claim details, and applicable rules provided.
+
+Review the following insurance claim scenario and respond with ONLY "Yes" (claim approved) or "No" (claim denied). No explanation, no punctuation, no extra text.
+
+Scenario:
+{scenario_json}

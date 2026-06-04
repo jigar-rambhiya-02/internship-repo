@@ -1,0 +1,25 @@
+Select the best ad copy variant from the three variants provided below based on the brand rules. Output only valid JSON with the following exact schema:
+
+{
+  "winner_index": 1,
+  "winner": {
+    "headline": "string",
+    "body": "string"
+  },
+  "reason": "string"
+}
+
+Rules:
+- winner_index must be 1, 2, or 3 (1‑based index of the chosen variant in the input array).
+- winner must exactly match the headline and body of the selected variant.
+- reason must be clear and concise, explaining how the variant best follows the brand rules.
+- Prefer copy that is specific, honest, audience‑aware, and aligned with the brand tone.
+- Do not include any markdown formatting, code fences, or text outside the JSON.
+
+Ad variants (JSON array of 3 objects with "headline" and "body"):
+{{variants}}
+
+Brand rules (markdown content):
+{{brand_rules}}
+
+Output only the JSON object.

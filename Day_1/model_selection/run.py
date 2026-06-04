@@ -589,7 +589,9 @@ from groq import Groq
 
 # ── Config ─────────────────────────────────────────────────────────────────────
 
-GROQ_API_KEY='***REMOVED***'
+GROQ_API_KEY=os.environ.get('GROQ_API_KEY', '')
+if not GROQ_API_KEY:
+    raise RuntimeError('Set GROQ_API_KEY environment variable before running this script.')
 client  = Groq(api_key=GROQ_API_KEY)
 
 # Three tiers matching the assignment's Pro / Flash / Flash-Lite concept

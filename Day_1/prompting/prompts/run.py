@@ -85,8 +85,9 @@ def main() -> None:
     if not os.environ.get("GEMINI_API_KEY"):
         raise RuntimeError("Set GEMINI_API_KEY before running this script.")
 
-    # client = groq.Groq(api_key='***REMOVED***')
-    client = groq.Groq(api_key=os.environ["***REMOVED***"])
+    if not os.environ.get("GROQ_API_KEY"):
+        raise RuntimeError("Set GROQ_API_KEY before running this script.")
+    client = groq.Groq(api_key=os.environ["GROQ_API_KEY"])
     prompt_templates = {
         "zero_shot_pred": load_prompt("zero_shot.txt"),
         "few_shot_pred": load_prompt("few_shot.txt"),

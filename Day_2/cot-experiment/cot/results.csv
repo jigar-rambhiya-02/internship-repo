@@ -1,0 +1,16 @@
+scenario_id,ground_truth,direct_answer,direct_correct,cot_answer,cot_correct,sc_answer,sc_correct,direct_cost_usd,cot_cost_usd,sc_cost_usd
+1,Yes,Yes,True,Yes,True,Yes,True,6.9e-05,0.00035235,0.00151635
+2,No,No,True,No,True,No,True,6.465e-05,0.0005232,0.0018126000000000001
+3,Yes,Yes,True,Yes,True,Yes,True,7.74e-05,0.00031215,0.00123015
+4,Yes,Yes,True,Yes,True,Yes,True,8.355e-05,0.0003867,0.0012363
+5,No,No,True,No,True,No,True,7.995e-05,0.0003261,0.0011661
+6,No,No,True,No,True,No,True,0.0001086,0.00022155,0.0014497499999999999
+7,No,No,True,No,True,No,True,6.255e-05,0.0003171,0.0009639
+8,Yes,Yes,True,Yes,True,Yes,True,7.275e-05,0.0004083,0.0010755
+9,Yes,Yes,True,Yes,True,Yes,True,7.83e-05,0.00030885,0.0015958500000000002
+10,Yes,Yes,True,Yes,True,Yes,True,6.33e-05,0.00033105,0.00120645
+11,No,No,True,No,True,No,True,6.57e-05,0.00037605,0.00146745
+12,Yes,Yes,True,Yes,True,Yes,True,7.71e-05,0.00032385,0.00093585
+13,No,No,True,No,True,No,True,6.855e-05,0.0002439,0.0013311
+14,Yes,Yes,True,Yes,True,Yes,True,6.57e-05,0.00031365,0.0012754499999999998
+15,No,No,True,No,True,No,True,7.305e-05,0.0003342,0.0010344

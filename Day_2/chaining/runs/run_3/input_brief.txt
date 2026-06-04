@@ -1,0 +1,1 @@
+SkillForge Studio is an online course platform that teaches beginners how to build practical websites with HTML, CSS, JavaScript, and simple AI tools. The course includes short video lessons, weekly projects, downloadable templates, and feedback checklists. It is made for students, freelancers, and career switchers who want portfolio-ready projects.

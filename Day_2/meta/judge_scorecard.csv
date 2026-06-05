@@ -1,0 +1,6 @@
+brief_id,brief_text,generated_prompt_file,has_all_6_sections,quality_score_1to5,missing_or_weak_sections,notes
+1,"Classify support emails into fixed issue taxonomy",classify_support_emails.txt,yes,5,none,"Exceptionally clear with precise uncertainty rules, confidence thresholds, and corrected edge-case example; production-ready."
+2,"Extract structured data from business PDFs (invoices, etc.)",extract_data_from_pdfs.txt,yes,3,"EXAMPLES (truncated/incomplete - second example cut off)","All sections present but the second example is cut off mid-sentence, making it partially unusable; otherwise strong constraints and schema."
+3,"Summarize legal documents/contracts with key elements",summarize_legal_documents.txt,yes,5,none,"Concise, clause-by-clause extraction with clear [uncertain] handling and word limit; examples match format perfectly."
+4,"Translate marketing copy preserving brand voice and placeholders",translate_marketing_copy.txt,yes,5,none,"Well-specified defaults, length constraints, placeholder preservation, and four illustrative examples including ambiguous cases."
+5,"Write SEO product descriptions (2 sentences + 3 bullets)",write_product_descriptions.txt,yes,5,none,"Exactly defined length and bullet rules, handles missing fields with [uncertain], and consistent tone enforcement; ready for e‑commerce use."

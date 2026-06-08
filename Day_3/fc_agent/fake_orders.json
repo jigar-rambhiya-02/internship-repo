@@ -1,0 +1,22 @@
+[
+    {"order_id": "1001", "status": "delivered", "category": "Electronics", "total": 199.99},
+    {"order_id": "1002", "status": "in-transit", "category": "Clothing", "total": 49.99},
+    {"order_id": "1003", "status": "returned", "category": "Furniture", "total": 299.99},
+    {"order_id": "1004", "status": "disputed", "category": "Electronics", "total": 89.99},
+    {"order_id": "1005", "status": "delivered", "category": "Books", "total": 15.99},
+    {"order_id": "1006", "status": "in-transit", "category": "Electronics", "total": 499.99},
+    {"order_id": "1007", "status": "returned", "category": "Clothing", "total": 79.99},
+    {"order_id": "1008", "status": "delivered", "category": "Furniture", "total": 149.99},
+    {"order_id": "1009", "status": "disputed", "category": "Electronics", "total": 129.99},
+    {"order_id": "1010", "status": "in-transit", "category": "Books", "total": 25.99},
+    {"order_id": "1011", "status": "delivered", "category": "Clothing", "total": 39.99},
+    {"order_id": "1012", "status": "returned", "category": "Electronics", "total": 59.99},
+    {"order_id": "1013", "status": "in-transit", "category": "Furniture", "total": 399.99},
+    {"order_id": "1014", "status": "delivered", "category": "Electronics", "total": 249.99},
+    {"order_id": "1015", "status": "disputed", "category": "Clothing", "total": 34.99},
+    {"order_id": "1016", "status": "in-transit", "category": "Books", "total": 12.99},
+    {"order_id": "1017", "status": "delivered", "category": "Furniture", "total": 89.99},
+    {"order_id": "1018", "status": "returned", "category": "Electronics", "total": 159.99},
+    {"order_id": "1019", "status": "in-transit", "category": "Clothing", "total": 69.99},
+    {"order_id": "1020", "status": "delivered", "category": "Electronics", "total": 349.99}
+]

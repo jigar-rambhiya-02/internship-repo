@@ -5,9 +5,12 @@ import time
 from pathlib import Path
 
 from groq import Groq
+from dotenv import load_dotenv
+
+load_dotenv()
 
 
-MODEL = "openai/gpt-oss-120b"
+MODEL_NAME = "llama-3.3-70b-versatile"
 BASE_DIR = Path(__file__).resolve().parent
 PROMPTS_DIR = BASE_DIR / "prompts"
 RUNS_DIR = BASE_DIR / "runs"
@@ -54,7 +57,7 @@ def load_json_strict(raw_text, step_name):
 def call_groq(system_prompt, user_prompt, temperature):
     try:
         response = client.chat.completions.create(
-            model=MODEL,
+            model=MODEL_NAME,
             messages=[
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": user_prompt},

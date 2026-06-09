@@ -1,0 +1,37 @@
+INVOICE
+
+Vendor:
+TechPulse Solutions Inc.
+1402 Innovation Drive, Suite 300
+Austin, TX 78701
+United States
+Tax ID: 82-4719203
+Email: billing@techpulse.io
+
+Bill To:
+Nexora Digital Ltd.
+88 Commerce Street, Floor 4
+New York, NY 10004
+United States
+
+Invoice Number: INV-2024-0091
+Invoice Date: 10 January 2024
+Due Date: 10 February 2024
+Purchase Order: PO-2024-0091
+Status: UNPAID
+
+---
+
+DESCRIPTION                          QTY    UNIT PRICE     TOTAL
+Senior Backend Development          80 hrs    $150.00    $12,000.00
+API Integration Consulting          20 hrs    $175.00     $3,500.00
+Code Review and QA Services         10 hrs    $120.00     $1,200.00
+
+---
+Subtotal:    $16,700.00
+Tax (8%):     $1,336.00
+TOTAL DUE:  $18,036.00
+
+Currency: USD
+
+Payment due within 30 days. Wire transfer details available on request.

@@ -1,0 +1,30 @@
+I N V O I C E
+
+  Vendor :
+    ByteForge Hardware Pte. Ltd.
+      18   Tanjong Pagar Road,  #05-01
+        Singapore   088 443
+          GST Reg:  M9-0234817-K
+            sales @ byteforge.sg
+
+  Bill  To :
+    Synergy Tech Corp.
+      77  Shenton  Way,   Level  12
+        Singapore   0789 03
+
+Invoice  Number :  INV - 2024 - BF - 0061
+Invoice  Date   :  22   March   2024
+Due  Date       :  21   April   2024
+
+Status :  UNPAID
+
+ITEMS :
+Enterprise Server (Dell R750xa)     2    SGD 8,400.00    SGD 16,800.00
+Network Switch (48-port)            4    SGD   850.00    SGD  3,400.00
+UPS Battery Backup Unit             2    SGD   620.00    SGD  1,240.00
+
+Sub - total :  SGD  21,440.00
+GST (  9% ) :  SGD   1,929.60
+T O T A L   :  SGD  23,369.60
+
+Currency : SGD

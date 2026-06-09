@@ -1,0 +1,33 @@
+INVOICE
+
+From:
+Brunner & Meyer GmbH
+Kaiserstrasse 47
+60329 Frankfurt
+Germany
+VAT: DE298471023
+Email: accounts@brunnermeyer.de
+
+To:
+Orbis Workspace S.A.
+Rue de la Loi 200
+1000 Brussels
+Belgium
+
+Invoice No.: INV-2024-0412
+Date: 22 February 2024
+Due Date: 22 March 2024
+Status: PAID
+
+Items:
+Ergonomic Office Chairs (x10)       1    €3,200.00    €3,200.00
+Standing Desk Frames (x5)           1    €2,750.00    €2,750.00
+Desk Accessories Bundle             3      €180.00      €540.00
+
+Subtotal:     €6,490.00
+VAT (19%):    €1,233.10
+Total:        €7,723.10
+
+Currency: EUR
+
+Payment received on 25 February 2024. Thank you for your business.

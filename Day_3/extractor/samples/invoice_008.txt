@@ -1,0 +1,35 @@
+INVOICE
+
+From:
+Harrington & Cole Legal Associates LLP
+850 Third Avenue, 22nd Floor
+New York, NY 10022
+United States
+EIN: 13-5527894
+Email: accounts@harringtoncole.com
+
+To:
+Vantage Capital Group Inc.
+200 Park Avenue
+New York, NY 10166
+United States
+
+Invoice Number: INV-2024-HC-0088
+Invoice Date: 01 February 2024
+Due Date: 01 March 2024
+Status: OVERDUE
+
+Description                          Hours    Rate        Amount
+M&A Due Diligence Review               40    $450.00    $18,000.00
+Contract Negotiation Support           15    $450.00     $6,750.00
+Regulatory Compliance Advisory         10    $450.00     $4,500.00
+
+Subtotal:    $29,250.00
+Tax (0%):         $0.00
+Total:       $29,250.00
+
+Currency: USD
+
+OVERDUE NOTICE: This invoice was due on 01 March 2024. As of today this invoice
+remains unpaid. A late payment penalty of 1.5% per month is now accruing.
+Please contact accounts@harringtoncole.com immediately to resolve.

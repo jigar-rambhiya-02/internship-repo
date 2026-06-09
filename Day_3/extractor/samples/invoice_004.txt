@@ -1,0 +1,34 @@
+INVOICE
+
+Vendor:
+CreativeEdge Marketing Pvt. Ltd.
+501 Maker Chambers IV
+Nariman Point, Mumbai 400021
+India
+GSTIN: 27AAGCC4739R1Z3
+Email: finance@creativeedge.in
+
+Bill To:
+BrandAxis Retail Pvt. Ltd.
+14th Floor, DLF Cyber City
+Gurugram, Haryana 122002
+India
+
+Invoice Number: INV-2024-CE-0189
+Invoice Date: 05 March 2024
+Due Date: 05 April 2024
+Status: PARTIALLY PAID
+
+Description                           Qty    Rate            Amount
+Brand Strategy Consulting             1    ₹75,000.00    ₹75,000.00
+Social Media Campaign Design          1    ₹45,000.00    ₹45,000.00
+Video Production (30-sec ad)          2    ₹60,000.00   ₹120,000.00
+
+Subtotal:        ₹2,40,000.00
+GST (18%):        ₹43,200.00
+Total:           ₹2,83,200.00
+
+Currency: INR
+
+Note: A partial payment of ₹1,00,000.00 was received on 15 March 2024.
+Remaining balance of ₹1,83,200.00 is due by 05 April 2024.

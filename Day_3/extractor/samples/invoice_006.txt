@@ -1,0 +1,33 @@
+INVOICE
+
+From:
+Gulf Freight Express LLC
+Warehouse 14, Jebel Ali Free Zone
+Dubai, UAE
+TRN: 100482931400003
+billing@gulffreight.ae
+
+To:
+Meridian Trading Company FZCO
+Office 2201, DWTC
+Dubai, UAE
+
+Invoice No.: INV-2024-GF-0302
+Invoice Date: 18 March 2024
+Due Date: 17 April 2024
+Purchase Order: PO-MTC-20240318
+Status: PAID
+
+Service Description            Qty    Rate (AED)      Total (AED)
+Air Freight - DXB to SIN        1    12,500.00       12,500.00
+Customs Clearance Fees          1     1,800.00        1,800.00
+Warehouse Storage (7 days)      7       350.00        2,450.00
+Documentation Handling          1       600.00          600.00
+
+Subtotal:     17,350.00 AED
+VAT (5%):        867.50 AED
+Total:        18,217.50 AED
+
+Currency: AED
+
+Payment received via bank transfer on 20 March 2024. Thank you.

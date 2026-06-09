@@ -1,0 +1,39 @@
+INVOICE
+
+Vendor:
+Cape Build Materials (Pty) Ltd.
+12 Industria Road
+Cape Town, 7490
+South Africa
+VAT No.: 4320198754
+Email: accounts@capebuild.co.za
+
+Customer:
+Sunrise Property Developers (Pty) Ltd.
+88 Bree Street
+Johannesburg, 2001
+South Africa
+
+Invoice Number: INV-2024-CB-0503
+Invoice Date: 15 April 2024
+Due Date: 15 May 2024
+Status: PARTIALLY PAID
+
+Description                       Qty      Unit Price       Total
+Concrete Blocks (Standard)       5000     ZAR    8.50    ZAR 42,500.00
+River Sand (per ton)               40     ZAR  480.00    ZAR 19,200.00
+Building Cement (50kg bags)       200     ZAR  145.00    ZAR 29,000.00
+Steel Reinforcement Bars (12mm)   300     ZAR   85.00    ZAR 25,500.00
+Waterproofing Membrane (rolls)     50     ZAR  320.00    ZAR 16,000.00
+Roof Tiles (per sqm)              120     ZAR  265.00    ZAR 31,800.00
+PVC Piping (4m lengths, 50mm)     100     ZAR   75.00    ZAR  7,500.00
+Delivery Charges                    1   ZAR 4,500.00    ZAR  4,500.00
+
+Subtotal:    ZAR 176,000.00
+VAT (15%):   ZAR  26,400.00
+Total:       ZAR 202,400.00
+
+Currency: ZAR
+
+Note: A partial payment of ZAR 100,000.00 was received on 20 April 2024.
+Outstanding balance: ZAR 102,400.00. Please remit by 15 May 2024.

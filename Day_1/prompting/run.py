@@ -5,6 +5,7 @@ import os
 from pathlib import Path
 from dotenv import load_dotenv
 from groq import Groq
+import time
 
 # Load environment variables from .env file if present
 load_dotenv()
@@ -109,7 +110,7 @@ def main() -> None:
             prediction = ask_llm(client, template, ticket_text)
             row[col] = prediction
             # Small delay to avoid hitting rate limits (adjust as needed)
-            # time.sleep(0.1)   # optional
+            time.sleep(2)   # optional
 
     # Write output CSV
     with OUTPUT_CSV.open("w", newline="", encoding="utf-8") as outfile:

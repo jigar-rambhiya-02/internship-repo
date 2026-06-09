@@ -2,11 +2,11 @@
   "product_name": "PulseBand Nova",
   "category": "Smartwatch",
   "key_features": [
-    "Heart rate monitoring",
-    "Sleep tracking",
-    "7-day battery life",
-    "Waterproof design",
-    "Quick phone notifications"
+    "Heart Rate Monitoring",
+    "Sleep Tracking",
+    "Waterproof Design",
+    "7-Day Battery",
+    "Quick Phone Notifications"
   ],
-  "target_audience": "Busy young professionals"
+  "target_audience": "Busy Young Professionals"
 }

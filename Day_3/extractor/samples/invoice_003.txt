@@ -1,0 +1,38 @@
+INVOICE
+
+Vendor:
+CloudNine Infrastructure Ltd.
+45 Server Farm Road
+London, EC2V 8RF
+United Kingdom
+VAT No: GB 312 9847 01
+contact@cloudnine.co.uk
+
+Client:
+DataVault Analytics plc
+99 Canary Wharf
+London, E14 5AB
+United Kingdom
+
+Invoice #: INV-2024-CN-0038
+Invoice Date: 01 March 2024
+Due Date: 31 March 2024
+Status: OVERDUE
+
+Services Rendered:
+
+Compute Instances (c2.xlarge x4, 720 hrs)    720    £0.68    £489.60
+Storage (20TB SSD, monthly)                    1    £840.00    £840.00
+CDN Bandwidth (8TB transfer)                   8    £32.00    £256.00
+Load Balancer (2 units, monthly)               2    £95.00    £190.00
+Managed Database (PostgreSQL, monthly)         1    £310.00    £310.00
+DDoS Protection (standard tier)               1    £120.00    £120.00
+
+Subtotal:   £2,205.60
+Tax (20%):    £441.12
+TOTAL:      £2,646.72
+
+Currency: GBP
+
+OVERDUE NOTICE: This invoice is past its due date. Please remit payment immediately.
+Late payment fee of 2% per month applies after 30 days.

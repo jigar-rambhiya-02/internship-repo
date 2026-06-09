@@ -1,10 +1,10 @@
 {
   "product_name": "HappyTail Daily",
-  "category": "Dog Food",
+  "category": "Pet Food",
   "key_features": [
-    "Formulated for adult dogs with sensitive stomachs",
-    "Includes chicken, brown rice, pumpkin, and added probiotics",
-    "Free of artificial colors; supports digestion and steady energy"
+    "Chicken-based",
+    "Added Probiotics",
+    "No Artificial Colors"
   ],
-  "target_audience": "Dog owners seeking gentle, everyday nutrition for adult dogs with sensitive stomachs"
+  "target_audience": "Pet owners of adult dogs with sensitive stomachs"
 }

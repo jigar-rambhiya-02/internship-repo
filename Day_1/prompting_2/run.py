@@ -14,7 +14,10 @@ Usage:
 """
 
 import os
+from dotenv import load_dotenv
 from groq import Groq
+
+load_dotenv()
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
@@ -132,6 +135,8 @@ TASKS = [
     },
 ]
 
+MODEL_NAME = "llama-3.3-70b-versatile"
+
 # ── Helpers ─────────────────────────────────────────────────────────────────
 
 def read_input(task_id: str, index: int) -> str:
@@ -155,7 +160,7 @@ def call_groq(client: Groq, system: str, user_message: str) -> str:
     You can change the model to any Groq-supported model.
     """
     response = client.chat.completions.create(
-        model="openai/gpt-oss-20b",          # Groq's Llama 3 70B model
+        model=MODEL_NAME,          # Groq's Llama 3 70B model
         messages=[
             {"role": "system", "content": system},
             {"role": "user", "content": user_message}
@@ -169,7 +174,7 @@ def call_groq(client: Groq, system: str, user_message: str) -> str:
 # ── Main ────────────────────────────────────────────────────────────────────
 
 def main():
-    api_key = os.environ.get("GROQ_API_KEY")
+    api_key = os.getenv("GROQ_API_KEY")
     if not api_key:
         raise EnvironmentError(
             "GROQ_API_KEY not set.\n"

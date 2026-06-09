@@ -1,5 +1,5 @@
-**Classification:** Normal  
-**Sender Intent:** Requesting guidance on exporting tasks to Excel.  
-**Key Action Required:** Provide step‑by‑step instructions or a link to the export feature.  
-**Suggested Owner:** Support  
-**Priority Reason:** Non‑time‑critical request for a standard feature.
+**Classification:** Normal
+**Sender Intent:** User needs help with exporting tasks to Excel.
+**Key Action Required:** Provide instructions on exporting tasks to Excel.
+**Suggested Owner:** Support 
+**Priority Reason:** User is seeking product functionality assistance.

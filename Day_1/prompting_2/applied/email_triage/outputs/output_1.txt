@@ -1,5 +1,5 @@
-**Classification:** Urgent  
-**Sender Intent:** Report unauthorized admin password change and request immediate remediation.  
-**Key Action Required:** Reset admin password, investigate breach, lock account.  
-**Suggested Owner:** Support  
-**Priority Reason:** Immediate security breach threatens account access and data integrity.
+**Classification:** Urgent
+**Sender Intent:** Reports suspected unauthorized account access.
+**Key Action Required:** Investigate and secure the account.
+**Suggested Owner:** Support
+**Priority Reason:** Potential security breach and business impact.

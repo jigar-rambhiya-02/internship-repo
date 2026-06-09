@@ -1,3 +1,2 @@
-# openai 
 groq
 python-dotenv

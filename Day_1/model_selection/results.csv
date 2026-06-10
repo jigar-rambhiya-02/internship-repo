@@ -1,0 +1,61 @@
+input_id,model,latency_ms,input_tokens,output_tokens,cost_usd,quality_score_1to5,notes
+doc_01,llama-3.3-70b (Pro),1287.3,311,111,0.00027118,5,"The summary accurately captures the most important points about the Amazon rainforest's size, ecological significance, and deforestation threats in three distinct bullets."
+doc_02,llama-3.3-70b (Pro),535.7,267,115,0.00024838,5,The summary accurately captures the most important points of the original document in three distinct and informative bullets.
+doc_03,llama-3.3-70b (Pro),718.3,257,95,0.00022668,5,The summary accurately captures the most important points from the original document in three distinct bullets.
+doc_04,llama-3.3-70b (Pro),567.7,248,106,0.00023006,5,"The summary accurately captures the main points of the original document, including the cause of the semiconductor shortage, the dominance of TSMC, and the global response to the crisis."
+doc_05,llama-3.3-70b (Pro),683.7,282,111,0.00025407,5,The summary accurately captures the most important points from the original document in three distinct and informative bullets.
+doc_06,llama-3.3-70b (Pro),532.4,268,106,0.00024186,5,"The summary accurately captures the most important points of the GDPR, including citizen rights, company obligations, and penalties for non-compliance, in three distinct and concise bullets."
+doc_07,llama-3.3-70b (Pro),736.6,262,94,0.00022884,5,The summary accurately captures the most important points of the original document in three distinct and informative bullets.
+doc_08,llama-3.3-70b (Pro),866.4,254,105,0.00023281,5,The summary accurately captures the most important points of the original document in three distinct and informative bullets.
+doc_09,llama-3.3-70b (Pro),532.4,243,92,0.00021605,5,The summary accurately captures the most important points from the original document in three distinct and informative bullets.
+doc_10,llama-3.3-70b (Pro),824.1,274,104,0.00024382,5,"The summary accurately captures the most important points about the history of the internet, including its origins, key inventions, and current state, in three distinct and informative bullets."
+doc_11,llama-3.3-70b (Pro),572.2,258,93,0.00022569,5,The summary accurately captures the most important points from the original document in three distinct and informative bullets.
+doc_12,llama-3.3-70b (Pro),894.1,256,110,0.00023794,5,The summary accurately captures the most important points from the original document in three distinct and informative bullets.
+doc_13,llama-3.3-70b (Pro),629.4,275,136,0.00026969,5,"The summary accurately captures the most important points about the James Webb Space Telescope, including its launch, capabilities, and mission, in three distinct and informative bullets."
+doc_14,llama-3.3-70b (Pro),536.7,240,98,0.00021902,5,The summary accurately captures the most important points from the original document in three distinct and well-worded bullets.
+doc_15,llama-3.3-70b (Pro),820.4,258,119,0.00024623,5,The summary accurately captures the most important points from the original document in three distinct and informative bullets.
+doc_16,llama-3.3-70b (Pro),3055.3,251,103,0.00022946,5,The summary accurately captures the most important points from the original document in three distinct and informative bullets.
+doc_17,llama-3.3-70b (Pro),2788.1,255,126,0.00024999,5,The summary accurately captures the most important points from the original document in three distinct and well-worded bullets.
+doc_18,llama-3.3-70b (Pro),2729.7,263,110,0.00024207,5,"The summary accurately captures the most important points about CRISPR-Cas9 technology, including its medical applications, ongoing clinical trials, and ethical concerns."
+doc_19,llama-3.3-70b (Pro),2706.2,242,102,0.00022336,5,The summary accurately captures the most important points from the original document in three distinct and well-worded bullets.
+doc_20,llama-3.3-70b (Pro),2611.5,266,101,0.00023673,5,"The summary accurately captures the most important points about the ISS, including its complexity, purpose, and future plans, in three distinct and informative bullets."
+doc_01,llama-4-scout (Flash),556.5,289,154,8.415e-05,5,"The summary accurately captures the most important points about the Amazon rainforest, including its size and role in the climate, its biodiversity, and the threats it faces due to deforestation."
+doc_02,llama-4-scout (Flash),431.0,245,91,5.789e-05,5,The summary accurately captures the most important points of the original document in three distinct and concise bullets.
+doc_03,llama-4-scout (Flash),339.0,235,74,5.101e-05,5,The summary accurately captures the most important points from the original document in three distinct and relevant bullets.
+doc_04,llama-4-scout (Flash),443.5,226,88,5.478e-05,5,The summary accurately captures the main points of the original document in three distinct and informative bullets.
+doc_05,llama-4-scout (Flash),429.1,260,74,5.376e-05,5,"The summary accurately captures the most important points about climate change's impact on ocean ecosystems, coral reefs, and the potential consequences of inaction."
+doc_06,llama-4-scout (Flash),527.6,247,101,6.151e-05,5,"The summary accurately captures the most important points of the GDPR, including citizen rights, company obligations, and penalties for non-compliance, in three distinct and concise bullets."
+doc_07,llama-4-scout (Flash),447.6,234,97,5.872e-05,5,The summary accurately captures the most important points of the original document in three distinct and concise bullets.
+doc_08,llama-4-scout (Flash),453.1,233,109,6.269e-05,5,The summary accurately captures the most important points of the original document in three distinct and well-worded bullets.
+doc_09,llama-4-scout (Flash),429.7,222,91,5.536e-05,5,The summary accurately captures the most important points from the original document in three distinct and informative bullets.
+doc_10,llama-4-scout (Flash),643.7,251,95,5.991e-05,5,"The summary accurately captures the most important points about the history of the internet, including its origins, key inventions, and significant developments over the years."
+doc_11,llama-4-scout (Flash),406.6,238,100,6.018e-05,5,The summary accurately captures the most important points from the original document in three distinct bullets.
+doc_12,llama-4-scout (Flash),417.5,232,104,6.088e-05,5,The summary accurately captures the most important points from the original document in three distinct and informative bullets.
+doc_13,llama-4-scout (Flash),600.9,250,134,7.306e-05,5,"The summary accurately captures the most important points about the James Webb Space Telescope, including its launch, capabilities, and mission, in three distinct and informative bullets."
+doc_14,llama-4-scout (Flash),389.3,221,94,5.627e-05,5,The summary accurately captures the most important points from the original document in three distinct and well-worded bullets.
+doc_15,llama-4-scout (Flash),416.4,236,114,6.472e-05,5,The summary accurately captures the most important points from the original document in three distinct and informative bullets.
+doc_16,llama-4-scout (Flash),486.1,227,103,5.999e-05,5,The summary accurately captures the most important points from the original document in three distinct and informative bullets.
+doc_17,llama-4-scout (Flash),532.2,233,124,6.779e-05,5,The summary accurately captures the most important points from the original document in three distinct and informative bullets.
+doc_18,llama-4-scout (Flash),632.4,234,124,6.79e-05,5,"The summary accurately captures the most important points about CRISPR-Cas9 technology, its medical and agricultural applications, and the associated ethical concerns in three distinct and well-worded bullets."
+doc_19,llama-4-scout (Flash),359.2,221,87,5.389e-05,5,The summary accurately captures the most important points from the original document in three distinct and concise bullets.
+doc_20,llama-4-scout (Flash),552.8,247,120,6.797e-05,5,"The summary accurately captures the most important points about the ISS, its deorbiting, and the future of space stations, with distinct and informative bullets."
+doc_01,llama-3.1-8b (Flash-Lite),549.3,311,130,2.595e-05,5,"The summary accurately captures the most important points about the Amazon rainforest, including its size and role in oxygen production, biodiversity, and the risks of deforestation, in three distinct and concise bullets."
+doc_02,llama-3.1-8b (Flash-Lite),1555.8,267,115,2.255e-05,5,The summary accurately captures the most important points of the original document in three distinct bullets.
+doc_03,llama-3.1-8b (Flash-Lite),381.4,257,81,1.933e-05,5,The summary accurately captures the most important points from the original document in three distinct and concise bullets.
+doc_04,llama-3.1-8b (Flash-Lite),709.7,248,103,2.064e-05,5,The summary accurately captures the most important points of the original document in three distinct and well-worded bullets.
+doc_05,llama-3.1-8b (Flash-Lite),313.4,282,83,2.074e-05,5,The summary accurately captures the most important points from the original document in three distinct and concise bullets.
+doc_06,llama-3.1-8b (Flash-Lite),488.3,268,102,2.156e-05,5,"The summary accurately captures the most important points of the GDPR, including its implementation, key rights and obligations, and penalties for non-compliance."
+doc_07,llama-3.1-8b (Flash-Lite),405.5,262,83,1.974e-05,5,The summary accurately captures the most important points of the original document in three distinct and concise bullets.
+doc_08,llama-3.1-8b (Flash-Lite),317.5,254,80,1.91e-05,5,The summary accurately captures the most important points of the original document in three distinct bullets.
+doc_09,llama-3.1-8b (Flash-Lite),929.1,243,87,1.911e-05,5,The summary accurately captures the most important points from the original document in three distinct and concise bullets.
+doc_10,llama-3.1-8b (Flash-Lite),451.5,274,95,2.13e-05,5,"The summary accurately captures the most important points about the history of the internet, including its origins, key inventions, and significant developments over time."
+doc_11,llama-3.1-8b (Flash-Lite),440.6,258,82,1.946e-05,5,"The summary accurately captures three key points from the original document, including EV sales, battery cost competitiveness, and government targets, in a concise and distinct manner."
+doc_12,llama-3.1-8b (Flash-Lite),468.9,256,84,1.952e-05,5,The summary accurately captures the most important points from the original document in three distinct and informative bullets.
+doc_13,llama-3.1-8b (Flash-Lite),397.9,275,88,2.079e-05,5,"The summary accurately captures the most important points about the James Webb Space Telescope, including its launch, capabilities, and discoveries, in three distinct and informative bullets."
+doc_14,llama-3.1-8b (Flash-Lite),442.1,240,90,1.92e-05,5,The summary accurately captures the most important points from the original document in three distinct and well-worded bullets.
+doc_15,llama-3.1-8b (Flash-Lite),374.9,258,114,2.202e-05,5,The summary accurately captures the most important points from the original document in three distinct and informative bullets.
+doc_16,llama-3.1-8b (Flash-Lite),455.6,251,86,1.943e-05,5,The summary accurately captures the most important points from the original document in three distinct and well-worded bullets.
+doc_17,llama-3.1-8b (Flash-Lite),274.0,255,86,1.963e-05,5,The summary accurately captures the most important points of the original document in three distinct bullets.
+doc_18,llama-3.1-8b (Flash-Lite),432.2,263,101,2.123e-05,5,The summary accurately captures the most important points from the original document in three distinct and informative bullets.
+doc_19,llama-3.1-8b (Flash-Lite),431.4,242,82,1.866e-05,5,The summary accurately captures the most important points from the original document in three distinct and informative bullets.
+doc_20,llama-3.1-8b (Flash-Lite),366.5,266,112,2.226e-05,5,"The summary accurately captures the most important points about the ISS, including its complexity, deorbiting plans, and commercial successors, in three distinct and informative bullets."

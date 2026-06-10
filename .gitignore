@@ -7,3 +7,10 @@ __pycache__/
 .env
 myenv/
 env/
+personal_notes.md
+*.pdf
+*.docx
+*.xlsx
+*.PDF
+guide.md
+guide.pdf

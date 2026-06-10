@@ -587,9 +587,12 @@ import os, time, csv, json, re
 from datetime import datetime
 from groq import Groq
 
+from dotenv import load_dotenv
+load_dotenv()
+
 # ── Config ─────────────────────────────────────────────────────────────────────
 
-GROQ_API_KEY=os.environ.get('GROQ_API_KEY', '')
+GROQ_API_KEY=os.getenv('GROQ_API_KEY', '')
 if not GROQ_API_KEY:
     raise RuntimeError('Set GROQ_API_KEY environment variable before running this script.')
 client  = Groq(api_key=GROQ_API_KEY)

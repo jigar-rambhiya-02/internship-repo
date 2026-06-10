@@ -1,3 +1,4 @@
+```bash
 self_repair/
 ├── repair_loop.py        # Core retry + validation logic
 ├── schema.py             # Pydantic models for ContactCard
@@ -11,3 +12,4 @@ self_repair/
 ├── .env                  # Template for environment variables
 ├── requirements.txt      # Python dependencies
 └── README.md             # Project overview
+```

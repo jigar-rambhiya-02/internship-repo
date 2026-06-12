@@ -1,0 +1,29 @@
+Day 5 GOAL: Build a production-style vector search index - the foundation for all RAG work
+
+Embeddings + Vector Search (Production-Style Indexing)
+
+Task:-
+CONCEPT: An 'embedding' is a numerical fingerprint of a piece of text. Similar-meaning texts have similar embeddings. A vector index lets you search by meaning, not keywords. Vertex AI Vector Search is Google's managed product for this.
+
+STEPS:
+1. Pick a corpus: 200+ PDFs from one source (suggestions: arXiv ML papers, RBI circulars, NSE annual reports - all free).
+2. Build ingest.py:
+   a) Parse each PDF into text (use pypdf)
+   b) Chunk each PDF (start with 512-token chunks)
+   c) Embed each chunk using Gemini Embedding API
+   d) Push chunks + embeddings + metadata (doc_id, year, doc_type, page_number) to Vertex AI Vector Search
+3. Build query.py - accepts a question and optional metadata filters, returns top-K chunks.
+4. Build a manifest CSV listing all your indexed docs.
+5. Test 10 example queries showing metadata filtering works (e.g. 'inflation from 2023 reports only').
+
+Deliverable:-
+1) /vvs/ingest.py - chunking + embedding + upload
+2) /vvs/query.py - query with optional filters
+3) /vvs/corpus_manifest.csv - doc_id, title, year, doc_type, num_pages, num_chunks
+4) /vvs/filtered_queries.md - 10 example queries with filter + top-5 retrieved chunks shown
+5) /vvs/setup.md - README: index config, embedding dimensions, distance metric, deploy commands
+
+Reference:-
+cloud.google.com/vertex-ai/docs/vector-search
+
+Extra Info about the i paste my groq api in .env, you complete the whole task. 

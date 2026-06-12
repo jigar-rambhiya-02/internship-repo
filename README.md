@@ -1,0 +1,46 @@
+File Structure
+
+```
+my-work-tasks/
+├── Day_1/
+│   ├── model_selection - (Checked)
+│   ├── prompting ❗️❗️
+│   └── prompting_2 ❗️❗️
+├── Day_2/
+│   ├── chaining ❗️
+│   ├── cot-experiment ❗️
+│   └── meta ❗️
+├── Day_3/
+│   ├── extractor
+│   ├── fc_agent ❗️
+│   └── self_repair
+├── Day_4/
+│   ├── fol_1/
+│   ├── fol_2/
+│   └── fol_3/
+├── Day_5/
+│   ├── fol_1/
+│   ├── fol_2/
+│   └── fol_3/
+├── Day_6/
+│   ├── fol_1/
+│   ├── fol_2/
+│   └── fol_3/
+├── Day_7/
+│   ├── fol_1/
+│   ├── fol_2/
+│   └── fol_3/
+├── Day_8/
+│   ├── fol_1/
+│   ├── fol_2/
+│   └── fol_3/
+├── Day_9/
+│   ├── fol_1/
+│   ├── fol_2/
+│   └── fol_3/
+└── Day_10/
+    ├── fol_1/
+    ├── fol_2/
+    └── fol_3/
+```
+

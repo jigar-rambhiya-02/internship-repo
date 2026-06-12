@@ -8,9 +8,14 @@ __pycache__/
 myenv/
 env/
 personal_notes.md
-*.pdf
+# *.pdf
 *.docx
 *.xlsx
 *.PDF
 guide.md
 guide.pdf
+# Large database files
+*.sqlite3
+*.db
+Day_5/vss/chroma_db/
+chroma_db/

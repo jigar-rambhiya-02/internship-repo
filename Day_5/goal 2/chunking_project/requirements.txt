@@ -1,0 +1,5 @@
+groq>=0.9.0
+scikit-learn>=1.4.0
+nltk>=3.8.1
+python-dotenv>=1.0.0
+numpy>=1.26.0

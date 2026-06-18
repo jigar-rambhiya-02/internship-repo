@@ -11,11 +11,11 @@ personal_notes.md
 # *.pdf
 *.docx
 *.xlsx
-*.PDF
+# *.PDF
 guide.md
 guide.pdf
 # Large database files
 *.sqlite3
 *.db
-Day_5/vss/chroma_db/
+# Day_5/vss/chroma_db/
 chroma_db/

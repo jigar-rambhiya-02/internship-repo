@@ -1,0 +1,16 @@
+# Environment
+.env
+myenv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+# Generated artifacts
+faiss_index/
+logs/
+
+# Python packaging
+*.egg-info/
+dist/
+build/

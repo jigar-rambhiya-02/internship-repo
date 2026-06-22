@@ -1,0 +1,40 @@
+{"question_id": "Q_SEM_01", "query": "What are the primary timelines to submit a financial request for property damage? (variant optimization sequence 0)", "query_type": "semantic", "gold_chunk_id": "chunk_ins_5"}
+{"question_id": "Q_SEM_02", "query": "What occurs if I fail to report an insurance incident within the corporate window? (variant optimization sequence 1)", "query_type": "semantic", "gold_chunk_id": "chunk_ins_5"}
+{"question_id": "Q_SEM_03", "query": "Are employee claims covered if an accident happens during an international trip? (variant optimization sequence 2)", "query_type": "semantic", "gold_chunk_id": "chunk_ins_12"}
+{"question_id": "Q_SEM_04", "query": "Where can I find information about executive travel insurance exclusions? (variant optimization sequence 3)", "query_type": "semantic", "gold_chunk_id": "chunk_ins_12"}
+{"question_id": "Q_SEM_05", "query": "What is the maximum limit allowed for tax-exempt personal investments? (variant optimization sequence 4)", "query_type": "semantic", "gold_chunk_id": "chunk_tax_7"}
+{"question_id": "Q_SEM_06", "query": "Which saving plans qualify under government tax deduction codes? (variant optimization sequence 5)", "query_type": "semantic", "gold_chunk_id": "chunk_tax_7"}
+{"question_id": "Q_SEM_07", "query": "Do I need to submit paper documents to prove my premium tax contributions? (variant optimization sequence 6)", "query_type": "semantic", "gold_chunk_id": "chunk_tax_18"}
+{"question_id": "Q_SEM_08", "query": "What happens if an internal audit lacks validation receipts for tax exemptions? (variant optimization sequence 7)", "query_type": "semantic", "gold_chunk_id": "chunk_tax_18"}
+{"question_id": "Q_SEM_09", "query": "What kind of leather is required for importing high-grade footwear? (variant optimization sequence 8)", "query_type": "semantic", "gold_chunk_id": "chunk_cust_3"}
+{"question_id": "Q_SEM_10", "query": "What is the standard duty percentage for importing rubber-soled footwear? (variant optimization sequence 9)", "query_type": "semantic", "gold_chunk_id": "chunk_cust_3"}
+{"question_id": "Q_SEM_11", "query": "Are there specific custom duty exceptions for partner countries under trade pacts? (variant optimization sequence 10)", "query_type": "semantic", "gold_chunk_id": "chunk_cust_9"}
+{"question_id": "Q_SEM_12", "query": "What paperwork proves the geographic origin of imported goods? (variant optimization sequence 11)", "query_type": "semantic", "gold_chunk_id": "chunk_cust_9"}
+{"question_id": "Q_SEM_13", "query": "How many days notice must be provided to terminate a contract without fault? (variant optimization sequence 12)", "query_type": "semantic", "gold_chunk_id": "chunk_leg_4"}
+{"question_id": "Q_SEM_14", "query": "What is the process for canceling a master vendor agreement? (variant optimization sequence 13)", "query_type": "semantic", "gold_chunk_id": "chunk_leg_4"}
+{"question_id": "Q_SEM_15", "query": "In which country must legal arbitration be conducted for vendor disputes? (variant optimization sequence 14)", "query_type": "semantic", "gold_chunk_id": "chunk_leg_11"}
+{"question_id": "Q_SEM_16", "query": "What language is mandatory for handling contract dispute procedures? (variant optimization sequence 15)", "query_type": "semantic", "gold_chunk_id": "chunk_leg_11"}
+{"question_id": "Q_SEM_17", "query": "What are the primary timelines to submit a financial request for property damage? (variant optimization sequence 16)", "query_type": "semantic", "gold_chunk_id": "chunk_ins_5"}
+{"question_id": "Q_SEM_18", "query": "What occurs if I fail to report an insurance incident within the corporate window? (variant optimization sequence 17)", "query_type": "semantic", "gold_chunk_id": "chunk_ins_5"}
+{"question_id": "Q_SEM_19", "query": "Are employee claims covered if an accident happens during an international trip? (variant optimization sequence 18)", "query_type": "semantic", "gold_chunk_id": "chunk_ins_12"}
+{"question_id": "Q_SEM_20", "query": "Where can I find information about executive travel insurance exclusions? (variant optimization sequence 19)", "query_type": "semantic", "gold_chunk_id": "chunk_ins_12"}
+{"question_id": "Q_SEM_21", "query": "What is the maximum limit allowed for tax-exempt personal investments? (variant optimization sequence 20)", "query_type": "semantic", "gold_chunk_id": "chunk_tax_7"}
+{"question_id": "Q_SEM_22", "query": "Which saving plans qualify under government tax deduction codes? (variant optimization sequence 21)", "query_type": "semantic", "gold_chunk_id": "chunk_tax_7"}
+{"question_id": "Q_SEM_23", "query": "Do I need to submit paper documents to prove my premium tax contributions? (variant optimization sequence 22)", "query_type": "semantic", "gold_chunk_id": "chunk_tax_18"}
+{"question_id": "Q_SEM_24", "query": "What happens if an internal audit lacks validation receipts for tax exemptions? (variant optimization sequence 23)", "query_type": "semantic", "gold_chunk_id": "chunk_tax_18"}
+{"question_id": "Q_SEM_25", "query": "What kind of leather is required for importing high-grade footwear? (variant optimization sequence 24)", "query_type": "semantic", "gold_chunk_id": "chunk_cust_3"}
+{"question_id": "Q_SEM_26", "query": "What is the standard duty percentage for importing rubber-soled footwear? (variant optimization sequence 25)", "query_type": "semantic", "gold_chunk_id": "chunk_cust_3"}
+{"question_id": "Q_SEM_27", "query": "Are there specific custom duty exceptions for partner countries under trade pacts? (variant optimization sequence 26)", "query_type": "semantic", "gold_chunk_id": "chunk_cust_9"}
+{"question_id": "Q_SEM_28", "query": "What paperwork proves the geographic origin of imported goods? (variant optimization sequence 27)", "query_type": "semantic", "gold_chunk_id": "chunk_cust_9"}
+{"question_id": "Q_SEM_29", "query": "How many days notice must be provided to terminate a contract without fault? (variant optimization sequence 28)", "query_type": "semantic", "gold_chunk_id": "chunk_leg_4"}
+{"question_id": "Q_SEM_30", "query": "What is the process for canceling a master vendor agreement? (variant optimization sequence 29)", "query_type": "semantic", "gold_chunk_id": "chunk_leg_4"}
+{"question_id": "Q_KEY_01", "query": "tell me about clause 8.2.1", "query_type": "keyword", "gold_chunk_id": "chunk_leg_4"}
+{"question_id": "Q_KEY_02", "query": "what is the exact dispute layout under clause 8.2.1", "query_type": "mixed", "gold_chunk_id": "chunk_leg_11"}
+{"question_id": "Q_KEY_03", "query": "what is the rate for HS code 6403", "query_type": "keyword", "gold_chunk_id": "chunk_cust_3"}
+{"question_id": "Q_KEY_04", "query": "who is exempt under HS code 6403 parameters", "query_type": "mixed", "gold_chunk_id": "chunk_cust_9"}
+{"question_id": "Q_KEY_05", "query": "explain policy ABC-2024-117 notification periods", "query_type": "keyword", "gold_chunk_id": "chunk_ins_5"}
+{"question_id": "Q_KEY_06", "query": "what does international travel look like in policy ABC-2024-117", "query_type": "mixed", "gold_chunk_id": "chunk_ins_12"}
+{"question_id": "Q_KEY_07", "query": "what does Section 80C cover for retirement savings", "query_type": "keyword", "gold_chunk_id": "chunk_tax_7"}
+{"question_id": "Q_KEY_08", "query": "how does Section 80C validation change under audit reviews", "query_type": "mixed", "gold_chunk_id": "chunk_tax_18"}
+{"question_id": "Q_KEY_09", "query": "where do I submit claims for policy ABC-2024-117 infractions", "query_type": "keyword", "gold_chunk_id": "chunk_ins_5"}
+{"question_id": "Q_KEY_10", "query": "what are the baseline tariffs applied to HS code 6403 clear shipments", "query_type": "mixed", "gold_chunk_id": "chunk_cust_3"}

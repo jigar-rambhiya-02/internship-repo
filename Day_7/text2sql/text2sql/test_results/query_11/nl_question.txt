@@ -1,0 +1,1 @@
+Using a window function, rank each day in 2015 by total number of trips, from highest to lowest. Show the date and its rank.

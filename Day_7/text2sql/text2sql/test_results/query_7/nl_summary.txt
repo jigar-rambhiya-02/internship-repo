@@ -1,0 +1,1 @@
+Taxis with a single passenger tend to travel the farthest, with an average distance of nearly 14 units. In contrast, taxis with three passengers travel the shortest average distance, at less than 2 units. The average distance traveled also increases for taxis with a larger number of passengers, but not as high as those with a single passenger.

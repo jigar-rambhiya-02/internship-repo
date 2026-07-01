@@ -1,0 +1,1 @@
+How many trips had more than 4 passengers?

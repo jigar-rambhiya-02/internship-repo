@@ -1,0 +1,1 @@
+For each pickup location ID, find the percentage of trips where the tip amount was greater than 20 percent of the fare amount. Only include locations with more than 100 trips. Show the top 10 locations by this percentage.

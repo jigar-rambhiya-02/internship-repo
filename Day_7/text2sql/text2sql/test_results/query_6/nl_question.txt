@@ -1,0 +1,1 @@
+Find the top 5 pickup location IDs by total fare amount in January 2015.

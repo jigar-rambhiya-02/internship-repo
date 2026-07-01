@@ -1,0 +1,1 @@
+SELECT AVG(trip_distance) AS average_trip_distance FROM `bigquery-public-data.new_york_taxi_trips.tlc_yellow_trips_2015` LIMIT 100

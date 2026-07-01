@@ -1,0 +1,1 @@
+What is the total number of trips and average fare amount for each day of the week in 2015?

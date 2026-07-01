@@ -1,0 +1,1 @@
+Using window functions, for each day in January 2015, calculate the cumulative total fare amount from the start of the month, and the percentage of the month's total fare each day represents. Order by date.

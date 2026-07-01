@@ -1,0 +1,1 @@
+What is the maximum tip amount recorded in the dataset?

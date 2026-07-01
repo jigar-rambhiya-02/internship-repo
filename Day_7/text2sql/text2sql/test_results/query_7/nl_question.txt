@@ -1,0 +1,1 @@
+Compare the average trip distance grouped by passenger count. Show passenger count and average distance.

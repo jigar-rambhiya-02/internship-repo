@@ -1,0 +1,6 @@
+Pipeline failed.
+Error: I was unable to generate valid SQL for this question after 3 attempts. Error: Unexpected dry-run error: 403 POST https://bigquery.googleapis.com/bigquery/v2/projects/text2sql-bi-copilot/jobs?prettyPrint=false: Access Denied: Project text2sql-bi-copilot: User does not have bigquery.jobs.create permission in project text2sql-bi-copilot.
+
+Location: None
+Job ID: 08ca6d28-d5e2-487e-bb39-0e0fe85698b6
+

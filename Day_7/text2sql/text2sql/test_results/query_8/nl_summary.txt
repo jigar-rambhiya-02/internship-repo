@@ -1,0 +1,1 @@
+The highest number of taxi trips in 2015 occurred on Sundays, with over 22.6 million trips taken. The average fare for these trips was relatively low on Sundays, at around $12.33, compared to other days of the week. Overall, Sundays and Fridays tended to have the most trips, while Fridays had the highest average fare, at around $13.21.

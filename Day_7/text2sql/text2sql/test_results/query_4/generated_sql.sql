@@ -1,0 +1,1 @@
+SELECT COUNT(*) AS num_trips FROM `bigquery-public-data.new_york_taxi_trips.tlc_yellow_trips_2015` WHERE passenger_count > 4 LIMIT 100

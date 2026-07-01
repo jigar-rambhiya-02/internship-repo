@@ -1,0 +1,1 @@
+The number of taxi trips in New York City varies by month, with the highest volume occurring in the first quarter of the year. The month with the most trips has over 13.3 million, while the month with the fewest has around 11.1 million. Overall, the data suggests a decline in taxi usage during the summer months.

@@ -1,0 +1,1 @@
+Using a CTE, calculate the average fare amount per hour of day (0-23) and identify the top 3 and bottom 3 hours by average fare. Return all hours with their average fare and a label ('top', 'bottom', or 'middle').

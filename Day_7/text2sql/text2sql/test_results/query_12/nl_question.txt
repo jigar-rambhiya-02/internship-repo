@@ -1,0 +1,1 @@
+Calculate the 7-day rolling average number of trips for each day in March 2015 using a CTE. Show the date and the rolling average.

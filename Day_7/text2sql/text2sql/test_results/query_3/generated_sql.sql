@@ -1,0 +1,1 @@
+SELECT SUM(fare_amount) AS total_fare_amount FROM `bigquery-public-data.new_york_taxi_trips.tlc_yellow_trips_2015` LIMIT 100

@@ -1,0 +1,1 @@
+Find the top 10 dropoff location IDs that generated the highest average tip percentage (tip_amount / fare_amount * 100) for trips with fare_amount > 5.

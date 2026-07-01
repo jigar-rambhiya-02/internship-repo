@@ -1,0 +1,1 @@
+The average number of taxi trips in New York during March 2015 remained relatively stable, with a general trend of around 437,000 to 441,000 trips per day over a 7-day rolling period. There is some variation, but no drastic spikes or dips are evident in the daily averages. Overall, the data suggests a consistent demand for taxi services throughout the month.

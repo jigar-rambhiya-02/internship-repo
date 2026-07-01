@@ -1,0 +1,1 @@
+The average distance of taxi trips in New York City is approximately 11.85 units. This suggests that most trips are relatively short, potentially indicating a high volume of local travel within the city. Overall, taxi trips tend to cover moderate distances, reflecting the city's dense population and infrastructure.

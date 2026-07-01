@@ -7,13 +7,13 @@ __pycache__/
 .env
 myenv/
 env/
-personal_notes.md
+# personal_notes.md
 # *.pdf
-*.docx
-*.xlsx
+# *.docx
+# *.xlsx
 # *.PDF
-guide.md
-guide.pdf
+# guide.md
+# guide.pdf
 # Large database files
 *.sqlite3
 *.db

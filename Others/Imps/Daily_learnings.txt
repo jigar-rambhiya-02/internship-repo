@@ -130,7 +130,7 @@ My Resume:
 
 Thank you!
 
-password: Ji23@###gar34###$
+<!-- password: Ji23@###gar34###$ -->
 
 ### Shortcuts:-
 
@@ -251,52 +251,7 @@ PASTE YOUR PROJECT DESCRIPTION HERE
 5. Mon, 15th June, 2026 - Hospital Visit Foot
 6. Tue, 16th June, 2026 - Foot Pain
 7. Wed, 17th June, 2026 - Foot Pain
-   
 
-
-### Models API Calling for DEEPSEEK MODEL:- 
-import os
-from openai import OpenAI
-
-def call_deepseek_v4_pro():
-    ### 1. Grab the API key from the environment variables
-    if not api_key:
-    ### 2. Initialize the client using DeepSeek's official base URL
-    client = OpenAI(
-        api_key=api_key,
-        base_url="https://api.deepseek.com"
-    )
-    print("Sending request to DeepSeek V4 Pro...")
-    try:
-        ### 3. Create the chat completion request
-        response = client.chat.completions.create(
-            model="deepseek-v4-pro",
-            messages=[
-                {"role": "system", "content": "You are a helpful and highly accurate assistant."},
-                {"role": "user", "content": "Explain why a bicycle stays upright when moving forward, and do so in a concise format."}
-            ],
-            ### V4 models support explicit configuration for the reasoning engine
-            extra_body={
-                "thinking": {
-                    "type": "enabled"
-                },
-                "reasoning_effort": "high"  ### Options: "high" or "max"
-            },
-            stream=False
-        )
-        ### 4. Extract and print the internal reasoning / thinking process (if available)
-        message = response.choices[0].message
-        if hasattr(message, 'reasoning_content') and message.reasoning_content:
-            print("\n=== 🤔 DeepSeek Reasoning Trace ===")
-            print(message.reasoning_content)
-        ### 5. Extract and print the final answer
-        print("\n=== ✨ Final Response ===")
-        print(message.content)
-    except Exception as e:
-        print(f"\nAn error occurred while calling the API: {e}")
-
-if __name__ == "__main__":
-    call_deepseek_v4_pro()
 
 
 
@@ -328,4 +283,4 @@ You are not my Assistant. You are my advisor who happens to be smarter than me. 
 
 # Website to visit
 - https://informationisbeautiful.net/
-- 
+

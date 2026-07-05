@@ -303,9 +303,7 @@ if __name__ == "__main__":
 ### Few Important Copy paste settings
 python3 -m venv venv
 source venv/bin/activate
-
-### .env
-
+x
 
 ### requirements.txt
 groq

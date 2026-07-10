@@ -1,0 +1,757 @@
+
+\documentclass[letterpaper,11pt]{article}
+
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage{xurl}
+\usepackage[hidelinks]{hyperref}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{fontawesome5}
+\usepackage{multicol}
+\usepackage{graphicx}
+
+% This is for margins.
+% \usepackage[left=1in, top=0.8in, right=1in, bottom=0.8in]{geometry} % NMIMS
+\usepackage[left=1in, top=1in, right=1in, bottom=0.8in]{geometry} % Normal
+% Make changes for margin change
+
+\setlength{\multicolsep}{-3.0pt}
+\setlength{\columnsep}{-1pt}
+\input{glyphtounicode}
+
+
+\RequirePackage{tikz}
+\RequirePackage{xcolor}
+\RequirePackage{fontawesome}
+\usepackage{tikz}
+\usetikzlibrary{svg.path}
+
+
+
+
+\definecolor{cvblue}{HTML}{0E5484}
+\definecolor{black}{HTML}{130810}
+\definecolor{darkcolor}{HTML}{0F4539}
+\definecolor{cvgreen}{HTML}{3BD80D}
+\definecolor{taggreen}{HTML}{00E278}
+\definecolor{SlateGrey}{HTML}{2E2E2E}
+\definecolor{LightGrey}{HTML}{666666}
+\colorlet{name}{black}
+\colorlet{tagline}{darkcolor}
+\colorlet{heading}{darkcolor}
+\colorlet{headingrule}{cvblue}
+\colorlet{accent}{darkcolor}
+\colorlet{emphasis}{SlateGrey}
+\colorlet{body}{LightGrey}
+
+
+
+
+
+
+% ----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+
+% serif
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+
+
+
+% \pagestyle{fancy}
+% \fancyhf{}  % clear all header and footer fields
+% \fancyfoot{}
+% \renewcommand{\headrulewidth}{0pt}
+% \renewcommand{\footrulewidth}{0pt}
+
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.6in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1.19in}
+\addtolength{\topmargin}{-.7in}
+\addtolength{\textheight}{1.in}
+
+
+\urlstyle{same}
+
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large\bfseries
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+
+\newcommand{\classesList}[4]{
+    \item\small{
+        {#1 #2 #3 #4 \vspace{-2pt}}
+  }
+}
+
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{\large#1} & \textbf{\small #2} \\
+      \textit{\large#3} & \textit{\small #4} \\
+     
+    \end{tabular*}\vspace{-7pt}
+}
+
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+
+
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{1.001\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & \textbf{\small #2}\\
+    \end{tabular*}\vspace{-7pt}
+}
+
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+
+\renewcommand\labelitemi{$\vcenter{\hbox{\tiny$\bullet$}}$}
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.0in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+
+
+
+\newcommand\sbullet[1][.5]{\mathbin{\vcenter{\hbox{\scalebox{#1}{$\bullet$}}}}}
+
+
+%-------------------------------------------
+%%%%%%%%%%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+\begin{document}
+
+
+%----------HEADING----------
+\begin{center}
+    {\Huge \scshape Jigar Rambhiya} \\ \vspace{1pt}
+    Mumbai, India \\ \vspace{1pt}
+    \small \href{tel:+916356161488}{ \raisebox{-0.1\height}\faPhone\ \underline{+91-6356161488} ~} \href{mailto:jigarrambhiya1@gmail.com}{\raisebox{-0.2\height}\faEnvelope\  \underline{jigarrambhiya1@gmail.com}} ~
+    \href{https://www.linkedin.com/in/jigarrambhiya}{\raisebox{-0.2\height}\faLinkedinSquare\ \underline{jigarrambhiya}}  ~
+    \href{https://github.com/jigarrambhiya1}{\raisebox{-0.2\height}\faGithub\ \underline{jigarrambhiya1}} ~
+\end{center}
+
+
+
+%-----------EDUCATION-----------
+\section{EDUCATION}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {MSc Statistics \& Data Science}{Jul 2025 -- Present}
+      {SVKM's NMIMS NSoMASA}{Mumbai, India}
+  \resumeSubHeadingListEnd
+    \vspace{-10pt}  
+  
+ 
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {B.Sc Statistics}{2022 -- 2025}
+      {VPM's BN Bandodkar College of Science}{Mumbai, India}
+  \resumeSubHeadingListEnd 
+
+
+
+
+
+
+
+% % ----------- NMIMS FORMAT EDUCATION-----------
+% \section{EDUCATION}
+%   \resumeSubHeadingListStart
+%     \resumeSubheading
+%       {MSc Statistics \& Data Science}{2025 -- Present}
+%       {Nilkamal School of Mathematics, Applied Statistics \& Analytics, SVKM's NMIMS}{\textbf{CGPA} - \textbf{7.09/10}}
+%   \resumeSubHeadingListEnd
+%     \vspace{-10pt}  
+%     % \vspace{-3pt}  
+  
+ 
+%   \resumeSubHeadingListStart
+%     \resumeSubheading
+%       {B.Sc Statistics}{2022 -- 2025}
+%       {VPM's BN Bandodkar College of Science}{\textbf{CGPA} - \textbf{6.05/10}}
+%   \resumeSubHeadingListEnd
+%     % \vspace{-3pt}  
+%     \vspace{-10pt}  
+
+%   \resumeSubHeadingListStart
+%     \resumeSubheading
+%       {Senior Secondary Examination - 12th (HSC)}{2020 -- 2022}
+%       {Mithibai Jr. College of Science, Mumbai}{\textbf{Percentage} - \textbf{56.83\%}}
+%   \resumeSubHeadingListEnd
+%     \vspace{-10pt}  
+
+%   \resumeSubHeadingListStart
+%     \resumeSubheading
+%       {Secondary Examination - 10th (ICSE)}{Apr 2020}
+%       {Shishuvan School, Mumbai}{\textbf{Percentage} - \textbf{81.17\%}}
+%   \resumeSubHeadingListEnd
+%     \vspace{-10pt}  
+
+
+
+\section{INTERNSHIP}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Wohlig Transformation Pvt. Ltd.\href{certificate Link}{\raisebox{-0.1\height}\faExternalLink }}{May 2026 -- June 2026}
+      {\underline{Data Science Trainee - 2 Months}}{Mumbai, India}
+      \resumeItemListStart
+        \resumeItem{\normalsize{Completed a structured 6-week Data Science \& GenAI training program covering classical ML, model evaluation, and applied LLM workflows.}}
+        \resumeItem{\normalsize{Applied feature engineering, Decision Trees, K-Means Clustering, SVM, Random Forest, PCA, and cross-validation techniques on real-world datasets, with tasks verified by senior mentors.}}
+        \resumeItem{\normalsize{Worked on GenAI-focused tasks including prompt engineering, LLM API integration for text summarization and classification, and studied RAG architecture fundamentals.}}
+        \resumeItem{\normalsize{Practiced software engineering best practices including virtual environments, .env-based credential management, and structured documentation (requirements.txt, findings.md).}}
+      \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+\vspace{-12pt}
+
+
+%-----------PROJECTS-----------
+\section{PROJECTS}
+    \vspace{-5pt}
+    \resumeSubHeadingListStart
+        \resumeProjectHeading
+            % ----Projet 1----
+            {\href{https://github.com/jigarrambhiya1/Quantitative_Risk_Modeling_-_Equity_Indices_n_MLDs.git}{\textbf{\large{Quantitative Risk Modeling (Equity Indices \& MLDs)}} 
+            \href{ProjectLink.com}{\raisebox{-0.1\height}\faExternalLink }}\\
+            \textit{\normalsize{Methods: ARMA--eGARCH, MLE, VaR, CTE}}}{\textbf{Oct 2025}}
+        \resumeItemListStart
+          \resumeItem{\normalsize{Modelled return distributions of Nifty 50, Bank Nifty, and Sensex using ARMA(1,1)–eGARCH(1,1) to eliminate volatility clustering and obtain i.i.d. residuals}}
+          
+          \resumeItem{\normalsize{Fitted 12 parametric distributions via MLE on filtered residuals; selected best-fit models (Generalized Hyperbolic, Skew-t) using AIC, BIC, and KS tests
+}}
+          
+          \resumeItem{\normalsize{Estimated VaR and CTE at 95\% \& 99\% confidence levels using historical data and Monte Carlo simulation (100K draws); validated via Kupiec and Christoffersen backtests - all three indices passed}}
+          
+          \resumeItem{\normalsize{Quantified that Principal-Protected MLDs carry zero downside risk while Non-Principal-Protected MLDs are ~20\% less risky than direct equity investment}}
+        \resumeItemListEnd
+        \vspace{-13pt}
+
+        \resumeProjectHeading
+            % ----Projet 1----
+            {\href{https://github.com/jigarrambhiya1/Kaggle-Credit-Card-Fraud-Detection/}{\textbf{\large{Credit Card Fraud Detection using Classical Machine Learning}} 
+            \href{ProjectLink.com}{\raisebox{-0.1\height}\faExternalLink }}\\
+            \textit{\normalsize{Methods: Logistic Regression, Random Forest, Imbalanced Classification}}}{\textbf{Dec 2025}}
+        \resumeItemListStart
+          \resumeItem{\normalsize{Built binary classification models to detect fraudulent credit card transactions using highly imbalanced tabular data (284k txns, 0.17\% fraud rate)}}
+          
+          \resumeItem{\normalsize{Performed data pre-processing including feature scaling and train–test splitting (80/20 split)}}
+          
+          \resumeItem{\normalsize{Addressed class imbalance and evaluated models using precision, recall, F1-score, and ROC–AUC (RF: 0.945 AUC, 96\% recall; SMOTE used) }}
+          
+          \resumeItem{\normalsize{Compared model performance and analyzed trade-offs between false positives and false negatives (F1: 0.89 vs LogReg 0.82)}}
+        \resumeItemListEnd
+        \vspace{-13pt}
+
+        % --2nd Project
+        \resumeProjectHeading
+            % ----Projet 1----
+            {\href{https://drive.google.com/drive/folders/1UcwZcE6ejxOjmytBY_OCF5uCkSN4tvWo?usp=sharing}{\textbf{\large{Sales Performance Analysis \& Interactive Dashboard}} 
+            \href{ProjectLink.com}{\raisebox{-0.1\height}\faExternalLink }}\\
+            \textit{\normalsize{Excel $|$ Data Cleaning $|$ Business Analytics}}}{\textbf{Dec 2025}}
+        \resumeItemListStart
+            \resumeItem{\normalsize{Cleaned and structured transactional sales data to ensure accurate category, time, and regional analysis}}
+            \resumeItem{\normalsize{Analyzed sales and profit trends (2014–2017) to identify top-performing categories, states, and customers}}
+            \resumeItem{\normalsize{Built an interactive Excel dashboard with slicers to enable dynamic business insights by category and year}}
+            \resumeItem{\normalsize{Highlighted revenue concentration in Technology and Phones along with strong year-on-year profit growth}}
+          \resumeItemListEnd
+        %\vspace{-13pt}
+         
+         
+    \resumeSubHeadingListEnd
+\vspace{-12pt}
+
+
+%-----------TECHNICAL SKILLS-----------
+\section{TECHNICAL SKILLS}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \normalsize{\item{
+     \textbf{\normalsize{Languages:}}{ \normalsize{Python, R, SQL}} \\
+     \textbf{\normalsize{Libraries \& Tools:}}{\normalsize{ Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Excel, Power BI, Tableau, GitHub, VS Code, Google Colab, LLM APIs (Claude, DeepSeek)}} \\
+     \textbf{\normalsize{Skills:}}{\normalsize{ Data Analysis, Statistical Modeling, Hypothesis Testing, Regression Analysis, Data Visualization, Data Cleaning \& Manipulation, Machine Learning, Model Evaluation \& Hyperparameter Tuning}} \\
+    }}
+ \end{itemize}
+ \vspace{-12pt}
+
+
+
+% %-----------INVOLVEMENT---------------
+% \section{EXTRACURRICULAR}
+%     \resumeSubHeadingListStart
+%         \resumeSubheading{PR Committee Head – Inferentia Stats Fest}{Feb 2025 -- Mar 2025}{BN Bandodkar College of Science}{Mumbai}
+%             \resumeItemListStart
+%                 \resumeItem{\normalsize{Lead Public Relation and Promotion activities for Colleges Statistical Festival}}
+%                 \resumeItem{\normalsize{Managed Event communication, outreach and Coordination with Participants }}
+%             \resumeItemListEnd
+            
+%         % \resumeSubheading{Chess Competetion \href{Certificate Proof link}{\raisebox{-0.1\height}\faExternalLink } }{2025}{\underline{Junior Chess Arbiter}}{Mumbai}
+%         %     \resumeItemListStart
+%         %         \resumeItem{\normalsize{Assisted in Officiating Chess Tournaments, ensuring adherence to rules.}}
+%         %         \resumeItem{\normalsize{Gained Experience in Arbitration Tournaments Management }}
+%         %     \resumeItemListEnd
+            
+%     \resumeSubHeadingListEnd
+%  \vspace{-11pt}
+
+
+
+
+ 
+
+ %-----------CERTIFICATIONS---------------
+\section{CERTIFICATIONS}
+
+    $\sbullet[.75] \hspace{0.1cm}$ {\href{https://drive.google.com/file/d/134Av5jCJXgniiRaALymBmmRwpFkgKZkT/view?usp=sharing}{Adv. SQL \& Power BI - \textit{Mithibai College} \href{certificateLink.com}{\raisebox{-0.1\height}\faExternalLink }}} \hspace{1.6cm}
+%$\sbullet[.75] \hspace{0.1cm}$ {\href{certificateLink.com}{Java}} \hspace{2.59cm}
+%$\sbullet[.75] \hspace{0.2cm}${\href{certificateLink.com} {Command Line in Linux - Coursera}}\\
+
+
+% $\sbullet[.75] \hspace{0.2cm}${\href{certificateLink.com}{Basics of R Software - BN Bandodkar College fo Science \href{certificateLink.com}{\raisebox{-0.1\height}\faExternalLink }}} \hspace{1cm}
+
+% $\sbullet[.75] \hspace{0.2cm}${\href{certificateLink.com}{Hackathon  \href{certificateLink.com}{\raisebox{-0.1\height}\faExternalLink }}} \hspace{1cm}
+
+%$\sbullet[.75] \hspace{0.1cm}$ {\href{certificateLink.com}{SQL}} \hspace{2.6cm}
+%$\sbullet[.75] \hspace{0.2cm}${\href{certificateLink.com}{Microsoft AI Classroom - Microsoft}} \\
+
+% $\sbullet[.75] \hspace{0.2cm}${\href{certificateLink.com}{\textbf{5 Stars} in \textbf{C++} \& \textbf{SQL} \href{certificateLink.com}{\raisebox{-0.1\height}\faExternalLink }}}\hspace{1.45cm}
+% $\sbullet[.75] \hspace{0.2cm}${\href{certificateLink.com}{MongoDB Basics}} \hspace{0.5cm}
+% $\sbullet[.75] \hspace{0.2cm}${\href{certificateLink.com}{NodeJS with Express \& MongoDB - Udemy}} \\
+
+
+
+% %------RELEVANT COURSEWORK-------
+% \section{TECHNICAL SKILLS}
+%     %\resumeSubHeadingListStart
+%         \begin{multicols}{4}
+%             \begin{itemize}[itemsep=-2pt, parsep=5pt]
+%                 \item SQL
+%                 \item Tableau
+%                 \item Python
+%                 \item R
+%                 \item Power BI
+%                 \item OOPS Concept
+%                 \item Web Development
+%                 \item Android Development
+%             \end{itemize}
+%         \end{multicols}
+%         \vspace*{2.0\multicolsep}
+%     %\resumeSubHeadingListEnd
+
+
+\end{document}
+%%%%%%%%%%%%%%%%%%% RESUME ENDS %%%%%%%%%%%%%%%%%%%%
+
+% ---Extra----
+Leetcode, Hankerrank, Geekforgeeks link
+    \href{https://leetcode.com/aman_2_0_2_3/}{\raisebox{-0.2\height}{\includegraphics[height=0.3cm, width=0.3cm]{leetcode.png}}\ \underline{LeetCode}} ~
+    \vspace{-8pt}    \href{https://auth.geeksforgeeks.org/user/aman_2_0_2_3/practice}{\raisebox{-0.2\height}{\includegraphics[height=0.3cm, width=0.3cm]{gfg.png}}\ \underline{GeeksforGeeks}} ~
+
+%-----------EXPERIENCE-----------
+\section{INTERNSHIP}
+  \resumeSubHeadingListStart
+
+
+    \resumeSubheading
+      {Company Name \href{certificate Link}{\raisebox{-0.1\height}\faExternalLink }}{MM YYYY -- MM YYYY}
+      {\underline{Role Name}}{city, country}
+      \resumeItemListStart
+        \resumeItem{\normalsize{About the role \textbf{and responsibilities carried out.}}}
+ 
+      \resumeItemListEnd  
+  \resumeSubHeadingListEnd
+\vspace{-12pt}
+
+
+
+%-------------------------
+% Resume in Latex
+% Author : Abey George
+% Based off of: https://github.com/sb2nov/resume
+% License : MIT
+%------------------------
+
+
+\documentclass[letterpaper,11pt]{article}
+
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{fontawesome5}
+\usepackage{multicol}
+\usepackage{graphicx}
+\setlength{\multicolsep}{-3.0pt}
+\setlength{\columnsep}{-1pt}
+\input{glyphtounicode}
+
+
+\RequirePackage{tikz}
+\RequirePackage{xcolor}
+\RequirePackage{fontawesome}
+\usepackage{tikz}
+\usetikzlibrary{svg.path}
+
+
+
+
+\definecolor{cvblue}{HTML}{0E5484}
+\definecolor{black}{HTML}{130810}
+\definecolor{darkcolor}{HTML}{0F4539}
+\definecolor{cvgreen}{HTML}{3BD80D}
+\definecolor{taggreen}{HTML}{00E278}
+\definecolor{SlateGrey}{HTML}{2E2E2E}
+\definecolor{LightGrey}{HTML}{666666}
+\colorlet{name}{black}
+\colorlet{tagline}{darkcolor}
+\colorlet{heading}{darkcolor}
+\colorlet{headingrule}{cvblue}
+\colorlet{accent}{darkcolor}
+\colorlet{emphasis}{SlateGrey}
+\colorlet{body}{LightGrey}
+
+
+
+
+
+
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+
+% serif
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+
+
+
+% \pagestyle{fancy}
+% \fancyhf{}  % clear all header and footer fields
+% \fancyfoot{}
+% \renewcommand{\headrulewidth}{0pt}
+% \renewcommand{\footrulewidth}{0pt}
+
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.6in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1.19in}
+\addtolength{\topmargin}{-.7in}
+\addtolength{\textheight}{1.4in}
+
+
+\urlstyle{same}
+
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large\bfseries
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+
+\newcommand{\classesList}[4]{
+    \item\small{
+        {#1 #2 #3 #4 \vspace{-2pt}}
+  }
+}
+
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{\large#1} & \textbf{\small #2} \\
+      \textit{\large#3} & \textit{\small #4} \\
+     
+    \end{tabular*}\vspace{-7pt}
+}
+
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+
+
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{1.001\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & \textbf{\small #2}\\
+    \end{tabular*}\vspace{-7pt}
+}
+
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+
+\renewcommand\labelitemi{$\vcenter{\hbox{\tiny$\bullet$}}$}
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.0in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+
+
+
+\newcommand\sbullet[1][.5]{\mathbin{\vcenter{\hbox{\scalebox{#1}{$\bullet$}}}}}
+
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+\begin{document}
+
+
+%----------HEADING----------
+
+
+
+
+\begin{center}
+    {\Huge \scshape Your Name is here} \\ \vspace{1pt}
+    city,state \\ \vspace{1pt}
+    \small \href{tel:+xxxxxxxxxxxx}{ \raisebox{-0.1\height}\faPhone\ \underline{+xx-9999999999} ~} \href{mailto:yourname@gmail.com}{\raisebox{-0.2\height}\faEnvelope\  \underline{yourname@gmail.com}} ~
+    \href{https://linkedin.com/in/yourid}{\raisebox{-0.2\height}\faLinkedinSquare\ \underline{yourid}}  ~
+    \href{https://github.com/yourid}{\raisebox{-0.2\height}\faGithub\ \underline{yourid}} ~
+    \href{https://www.hackerrank.com/yourid}{\raisebox{-0.2\height}\faHackerrank\ \underline{yourid}} ~
+    \href{https://codeforces.com/profile/yourid}{\raisebox{-0.2\height}\faPoll\ \underline{yourid}}
+    \vspace{-8pt}
+\end{center}
+
+
+
+
+%-----------EDUCATION-----------
+\section{EDUCATION}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {College Name}{MM YYYY -- MM YYYY}
+      {Degree Name - \textbf{CGPA} - \textbf{xx}}{city, country}
+  \resumeSubHeadingListEnd
+ 
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {College Name}{MM YYYY -- MM YYYY}
+      {Exam Name - Course Name  - \textbf{Percentage} - \textbf{xx\%}}{city, country}
+  \resumeSubHeadingListEnd
+
+
+%------RELEVANT COURSEWORK-------
+\section{COURSEWORK / SKILLS}
+    %\resumeSubHeadingListStart
+        \begin{multicols}{4}
+            \begin{itemize}[itemsep=-2pt, parsep=5pt]
+                \item Data Structures \& Algorithms
+                \item Operating Systems
+                \item Network Security
+                \item Database Management System (DBMS)
+               \item Artificial Intelligence
+                \item OOPS Concept
+                \item Web Development
+                \item Android Development
+            \end{itemize}
+        \end{multicols}
+        \vspace*{2.0\multicolsep}
+    %\resumeSubHeadingListEnd
+
+
+
+
+
+
+%-----------PROJECTS-----------
+\section{PROJECTS}
+    \vspace{-5pt}
+    \resumeSubHeadingListStart
+       \resumeProjectHeading
+          {\href{ProjectLink.com}{\textbf{\large{\underline{Project Name}}} \href{Project Link}{\raisebox{-0.1\height}\faExternalLink }} $|$ \large{\underline{Technology Stack Used}}}{MM YYYY}
+          \resumeItemListStart
+            \resumeItem{\normalsize{About project \textbf{key points to highlight}.}}
+
+
+            \resumeItem{\textcolor{accent} {\href{Live Project Link} {\underline{\normalsize{Live site here}}}}}
+          \resumeItemListEnd
+          \vspace{-13pt}
+         
+      \resumeProjectHeading
+          {\href{ProjectLink.com}{\textbf{\large{\underline{Project Name}}} \href{Project Link}{\raisebox{-0.1\height}\faExternalLink }} $|$ \large{\underline{Technology Stack Used}}}{MM YYYY}
+          \resumeItemListStart
+            \resumeItem{\normalsize{About project \textbf{highlight key points}.}}
+            \resumeItem{\textcolor{accent} {\href{Project Link} {\underline{\normalsize{Download}}}}}
+          \resumeItemListEnd
+          \vspace{-13pt}
+         
+          \resumeProjectHeading
+          {\href{ProjectLink.com}{\textbf{\large{\underline{Project Name}}} \href{Project Link}{\raisebox{-0.1\height}\faExternalLink }} $|$ \large{\underline{Technology Stack Used}}}{MM YYYY}
+          \resumeItemListStart
+            \resumeItem{\normalsize{About Project \textbf{highlight key points} }}
+           
+          \resumeItemListEnd
+         
+    \resumeSubHeadingListEnd
+\vspace{-12pt}
+
+
+%
+
+
+
+
+%-----------EXPERIENCE-----------
+\section{INTERNSHIP}
+  \resumeSubHeadingListStart
+
+
+    \resumeSubheading
+      {Company Name \href{certificate Link}{\raisebox{-0.1\height}\faExternalLink }}{MM YYYY -- MM YYYY}
+      {\underline{Role Name}}{city, country}
+      \resumeItemListStart
+        \resumeItem{\normalsize{About the role \textbf{and responsibilities carried out.}}}
+ 
+      \resumeItemListEnd  
+  \resumeSubHeadingListEnd
+\vspace{-12pt}
+%-----------PROGRAMMING SKILLS-----------
+\section{TECHNICAL SKILLS}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{\normalsize{Languages:}}{ \normalsize{Python, Java, C, C++, Dart, JavaScript, SQL, NoSQL, R, XML, Go}} \\
+     \textbf{\normalsize{Developer Tools:}}{ \normalsize{VS Code, Android Studio, DataGrip, Goland, Intellij Idea Ultimate}} \\
+     \textbf{\normalsize{Technologies/Frameworks:}}{\normalsize{ Linux, GitHub, ReactJS, Redux, NextJS, NodeJS, ExpressJS, Git, Mongo, Flutter}} \\
+    }}
+ \end{itemize}
+ \vspace{-15pt}
+
+
+
+
+%-----------INVOLVEMENT---------------
+\section{EXTRACURRICULAR}
+    \resumeSubHeadingListStart
+        \resumeSubheading{Organization Name \href{Certificate Proof link}{\raisebox{-0.1\height}\faExternalLink } }{MM YYYY -- MM YYYY}{\underline{Role}}{Location}
+            \resumeItemListStart
+                \resumeItem{\normalsize{About the role \textbf{and responsibilities carried out.}}}
+                \resumeItem{\normalsize{Participation Certificate. \href{ParticipationCertificateLink.com}{\raisebox{-0.1\height}\faExternalLink }}}
+            \resumeItemListEnd
+    \resumeSubHeadingListEnd
+ \vspace{-11pt}
+ 
+ %-----------CERTIFICATIONS---------------
+\section{CERTIFICATIONS}
+
+
+$\sbullet[.75] \hspace{0.1cm}$ {\href{certificateLink.com}{ReactJS \& Redux - Udemy}} \hspace{1.6cm}
+$\sbullet[.75] \hspace{0.1cm}$ {\href{certificateLink.com}{Java}} \hspace{2.59cm}
+$\sbullet[.75] \hspace{0.2cm}${\href{certificateLink.com} {Command Line in Linux - Coursera}}\\
+
+
+$\sbullet[.75] \hspace{0.2cm}${\href{certificateLink.com}{Python for Data Science - XIE}} \hspace{1cm}
+$\sbullet[.75] \hspace{0.1cm}$ {\href{certificateLink.com}{SQL}} \hspace{2.6cm}
+$\sbullet[.75] \hspace{0.2cm}${\href{certificateLink.com}{Microsoft AI Classroom - Microsoft}} \\
+
+
+$\sbullet[.75] \hspace{0.2cm}${\href{certificateLink.com}{\textbf{5 Stars} in \textbf{C++} \& \textbf{SQL} \href{certificateLink.com}{\raisebox{-0.1\height}\faExternalLink }}}\hspace{1.45cm}
+$\sbullet[.75] \hspace{0.2cm}${\href{certificateLink.com}{MongoDB Basics}} \hspace{0.5cm}
+$\sbullet[.75] \hspace{0.2cm}${\href{certificateLink.com}{NodeJS with Express \& MongoDB - Udemy}} \\
+
+
+
+
+\end{document}
+
+
+
+
+
